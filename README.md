@@ -3,7 +3,7 @@
 
 
 <p align="left">
-        <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76be48d8fbb841c985956b01a9da85b6~tplv-k3u1fbpfcp-watermark.image" width=""/>
+        <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/10bfa08b753e458e9c98584bd2af7889~tplv-k3u1fbpfcp-watermark.image" width=""/>
 </p>
 
 - 手写算法
@@ -138,5 +138,5 @@
 	- 京东面试题汇总
 	- 网易面试题汇总
 
-![image](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5a6ff7b619da4adf83237bfa21617c14~tplv-k3u1fbpfcp-watermark.image)	
+![image](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76be48d8fbb841c985956b01a9da85b6~tplv-k3u1fbpfcp-watermark.image)	
 	
