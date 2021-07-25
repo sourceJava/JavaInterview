@@ -1,5 +1,5 @@
 - 以下是知识图谱，详情大家可以去【公众号】搜索，或者添加我【微信】，免费获取面试通关资料，还能免费获取咨询机会。
-![image](https://github.com/sourceJava/JavaInterview/blob/054eaf0514c5d2d4509ecd44312747dc4773514e/images/catalogue.png)
+![image](https://wx4.sinaimg.cn/mw690/006GBhYpgy1gstd2ryw9vj30u030fk19.jpg)
 - java基础
 	- [java多态]()
     - [jvm调优]()
