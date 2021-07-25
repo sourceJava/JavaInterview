@@ -3,7 +3,7 @@
 
 
 <p align="left">
-        <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/10bfa08b753e458e9c98584bd2af7889~tplv-k3u1fbpfcp-watermark.image" width=""/>
+        <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76be48d8fbb841c985956b01a9da85b6~tplv-k3u1fbpfcp-watermark.image" width=""/>
 </p>
 
 - 手写算法
