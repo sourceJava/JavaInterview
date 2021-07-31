@@ -6,10 +6,11 @@
         <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/64301d17b1ca42d084e0d2c38b5701be~tplv-k3u1fbpfcp-watermark.image" width="600px"/>
 </p>
 
-- 手写算法
+- [手写算法](https://leetcode-cn.com/problemset/all/)
 - Java核心基础
-    - Exception和Error有什么区别
-	- final、finally、 finalize有什么不同
+        - [Exception和Error有什么区别](https://mp.weixin.qq.com/s/H7hx9e5Fj_Lc-_fSDOpeGw)
+	- [final、finally、 finalize有什么不同](https://mp.weixin.qq.com/s/W2VxecoIxBWhqXzGFOfcTw)
+	- [Java提供了哪些IO方式？什么是 NIO？](https://mp.weixin.qq.com/s/e-aWIxevMz7wpG8oCURqVg)
 	- HashMap灵魂拷问
 	- 设计模式详解
 	- JDK1.8新特性
@@ -55,7 +56,7 @@
 	- 线程池的原理篇
 	- Java内存模型中的happen-before是什么？
 - redis
-	- Redis面经-基础篇
+	- [Redis面经-基础篇](https://mp.weixin.qq.com/s/yPB6VOeg01uaNg6jYp2U9w)
 		- Redis的内存淘汰策略有哪些？
 		- 自己如何实现一个LRU算法?
 		- Redis是怎么进行持久化的
