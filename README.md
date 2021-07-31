@@ -137,6 +137,8 @@
 	- 滴滴面试题汇总
 	- 京东面试题汇总
 	- 网易面试题汇总
-
-![image](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76be48d8fbb841c985956b01a9da85b6~tplv-k3u1fbpfcp-watermark.image)	
+<p align="center" >
+        <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76be48d8fbb841c985956b01a9da85b6~tplv-k3u1fbpfcp-watermark.image" width="600px" height="600px" />
+</p>
+	
 	
