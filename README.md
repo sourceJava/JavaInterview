@@ -2,8 +2,8 @@
 以下是面试知识图谱，我会逐步完善下面文章，可能目前不是很完善，每周我会定期更新文章，大家可以去【公众号】搜索"Java面试公开课"，或者添加我【微信】，免费获取面试通关资料，写文章不易(大家别忘记**Star**哟)。
 
 
-<p align="left" width="600Px">
-        <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/10bfa08b753e458e9c98584bd2af7889~tplv-k3u1fbpfcp-watermark.image" width=""/>
+<p align="left" >
+        <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/64301d17b1ca42d084e0d2c38b5701be~tplv-k3u1fbpfcp-watermark.image" width="600px"/>
 </p>
 
 - 手写算法
