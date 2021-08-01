@@ -29,7 +29,7 @@
     - 一次内存溢出&CPU飙高排查历程
     - JVM面试，看这一篇就够了
 - Java面试之必问-多线程
-    - Java面试必问：ThreadLocal
+    - [Java面试必问：ThreadLocal](https://mp.weixin.qq.com/s/Pj9ggVIbdzPEilLiCt9qDw)
     - 单列模式（以为是送分题，结果是送命题）引发了我对锁粒度的思考
     - ReentrantLock底层原理
     - Synchronized 底层如何实现的？什么是锁的升级，锁的降级
@@ -126,7 +126,7 @@
 - 架构篇
     - 很多公司三面都问架构相关问题，我该怎么理解架构？怎么设计我的回答
 - 简历篇
-    - 简历小技巧
+    - [简历小技巧](https://mp.weixin.qq.com/s/hv5kQhL_vLo4cbpfECEtQQ)
     - 面试流程
     - 哪些是面试中的加分项
 - 面试真题&面经分享
