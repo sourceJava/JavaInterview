@@ -18,7 +18,7 @@
 - 计算机网络和操作系统
     - 你输入 URL 后到响应，都经历了哪些过程
     - TCP/IP 常见面试知识总结
-    - 被问千百遍的 TCP 三次握手和四次挥手
+    - [被问千百遍的 TCP 三次握手和四次挥手](https://mp.weixin.qq.com/s/6Wy0sgQcb0cWVqZbAoR4kA)
     - HTTPS常见面试题
     - Linux面试-常用命令总结
     - TLS 1.3 VS TLS 1.2
